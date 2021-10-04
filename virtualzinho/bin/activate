@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/luma/Área de Trabalho/Desafio Técnico Able Tech/Desafio-ABLE-TECH/virtualzinho'
+VIRTUAL_ENV='/home/luma/Área de Trabalho/Desafio Técnico Able Tech/Desafio-ABLE_TECH/virtualzinho'
 if ([ "$OSTYPE" = "cygwin" ] || [ "$OSTYPE" = "msys" ]) && $(command -v cygpath &> /dev/null) ; then
     VIRTUAL_ENV=$(cygpath -u "$VIRTUAL_ENV")
 fi

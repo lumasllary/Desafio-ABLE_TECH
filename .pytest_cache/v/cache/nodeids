@@ -1,0 +1,13 @@
+[
+  "test_edificioGaragem.py::testeContarVagasCorredor",
+  "test_edificioGaragem.py::testeContarVagasOcupadasEmCorredorQualquer",
+  "test_edificioGaragem.py::testeDeCriarListaDeTuplasDosAndares",
+  "test_edificioGaragem.py::testeDeOrdenarAndaresPorVagasLivres",
+  "test_edificioGaragem.py::testeEncontrarAndarMaisLivre",
+  "test_edificioGaragem.py::testeEncontrarAndarMaisLivreQualquer",
+  "test_edificioGaragem.py::testeOrdenarAndaresPorVagasLivresQualquer",
+  "test_edificioGaragem.py::testeVagasLivresAndar",
+  "test_edificioGaragem.py::testeVagasLivresEmAndarQualquer",
+  "test_edificioGaragem.py::testeValorArrecadado",
+  "test_edificioGaragem.py::testeValorArrecadadoQualquer"
+]
